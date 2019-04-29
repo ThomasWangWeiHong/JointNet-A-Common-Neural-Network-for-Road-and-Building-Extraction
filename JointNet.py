@@ -281,7 +281,7 @@ def JointNet(img_height_size = 512, img_width_size = 512, n_bands = 3, growth_ra
     - l_r: Learning rate to be applied for the Adam optimizer
     
     Outputs:
-    -
+    - jointnet_model: JointNet model to be trained using input parameters and network architecture
     
     """
     
