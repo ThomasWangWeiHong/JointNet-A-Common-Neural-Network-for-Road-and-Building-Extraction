@@ -9,7 +9,7 @@ The binary focal loss function used in this repository is borrowed from umbertog
 be found at https://github.com/umbertogriffo/focal-loss-keras
 
 The group normalization implementation in Keras used in this repository is the exact same class object defined in the group_norm.py 
-file located in titu1994's Keras-Group-Normalization github repository at https://github.com/titu1994/Keras-Group-Normalization
+file located in titu1994's Keras-Group-Normalization github repository at https://github.com/titu1994/Keras-Group-Normalization.
 Please ensure that the group_norm.py file is placed in the correct directory before use.
 
 Requirements:
