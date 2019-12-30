@@ -25,7 +25,7 @@ Requirements:
 
 
 
-The JointNet model is trained on the training dataset provided by INRIA under the Inria Aerial Image Labeling Dataset (https://project.inria.fr/aerialimagelabeling/), For the inference stage, the raw image is fed to the model as input, and the model output is then thresholded using a threshold value of 0.6. It should be noted that there is no further post - processing of the model output (in order to illustrate the generalization power of the JointNet model), and it is believed that further post - processing would be able to further improve the results.
+The JointNet model is trained on the training dataset provided by INRIA under the Inria Aerial Image Labeling Dataset (https://project.inria.fr/aerialimagelabeling/). For the inference stage, the raw image is fed to the model as input, and the model output is then thresholded using a threshold value of 0.6. It should be noted that there is no further post - processing of the model output (in order to illustrate the generalization power of the JointNet model), and it is believed that further post - processing would be able to further improve the results.
 
 
  - Bellingham Test Image
